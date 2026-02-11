@@ -38,6 +38,9 @@ body {
             #050b18 100%
         );
 }
+.descripcion {
+    text-align: center;
+}
 
 /* ================================
    CONTENEDOR
@@ -119,4 +122,5 @@ h1 {
 .descripcion {
     text-align: justify;
 }
+
 
